@@ -56,7 +56,7 @@ http://tvit.leicaflorianrobert.dev/discovery/dmax/stream.m3u8
 http://tvit.leicaflorianrobert.dev/mediaset/mediaset-extra/stream.m3u8
 
 #EXTINF:-1 tvg-id="SkyUno(src01).it" tvg-name="Sky UNO Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-uno-it.png" group-title="Italy",Sky UNO Italy
-https://xyzdddd.mizhls.ru/lb/premium881/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+https://str.cls.autos/hls/skyuno/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
 #EXTINF:-1 tvg-id="SkySerie(src01).it" tvg-name="Sky Serie Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-serie-it.png" group-title="Italy",Sky Serie Italy
 https://xyzdddd.mizhls.ru/lb/premium880/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
